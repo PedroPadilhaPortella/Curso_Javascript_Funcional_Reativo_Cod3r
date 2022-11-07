@@ -1,0 +1,16 @@
+{
+  "name": "curso_javascript_funcional_reativo_cod3r",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroPadilhaPortella/Curso_Javascript_Funcional_Reativo_Cod3r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "rxjs": "6.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
